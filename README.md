@@ -21,8 +21,7 @@ Articles are sorted by reading order and difficulty.
 ## DeFi
 
 An understanding of the Ethereum protocol is important, but an understanding of the DeFi space should be of much higher focus.
-We're ultimately building software, diving into protocol details is analogous to understanding computer architecture, 
-to build software (ie. not necessary after a point).
+We're ultimately building software, diving into protocol details is analogous to understanding computer architecture to build software (ie. not necessary after a point).
 
 [defi intro](https://blog.coinbase.com/a-beginners-guide-to-decentralized-finance-defi-574c68ff43c4)  
 [defi intro 2](https://decrypt.co/resources/defi-ultimate-beginners-guide-decentralized-finance)  
