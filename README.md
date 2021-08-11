@@ -4,15 +4,15 @@
 
 Articles are sorted by reading order and difficulty.
 
-[intro](https://medium.com/@micheledaliessi/how-does-ethereum-work-8244b6f55297#:~:text=Ethereum%20hardware%20layer%20is%20a,the%20transactions%20that%20take%20place.) 
-[intro 2](https://ethereum.org/en/developers/docs/intro-to-ethereum/) 
-[dapps](https://ethereum.org/en/developers/docs/dapps/) 
-[web3](https://ethereum.org/en/developers/docs/web2-vs-web3/) 
-[accounts](https://ethereum.org/en/developers/docs/accounts/) 
-[transactions](https://ethereum.org/en/developers/docs/transactions/) 
-[blocks](https://ethereum.org/en/developers/docs/blocks/) 
-[evm](https://ethereum.org/en/developers/docs/evm/) 
-[gas](https://ethereum.org/en/developers/docs/gas/) 
+[intro](https://medium.com/@micheledaliessi/how-does-ethereum-work-8244b6f55297#:~:text=Ethereum%20hardware%20layer%20is%20a,the%20transactions%20that%20take%20place.)  
+[intro 2](https://ethereum.org/en/developers/docs/intro-to-ethereum/)  
+[dapps](https://ethereum.org/en/developers/docs/dapps/)  
+[web3](https://ethereum.org/en/developers/docs/web2-vs-web3/)  
+[accounts](https://ethereum.org/en/developers/docs/accounts/)  
+[transactions](https://ethereum.org/en/developers/docs/transactions/)  
+[blocks](https://ethereum.org/en/developers/docs/blocks/)  
+[evm](https://ethereum.org/en/developers/docs/evm/)  
+[gas](https://ethereum.org/en/developers/docs/gas/)  
 
 ### Advanced Technical Reading (Optional)
 
